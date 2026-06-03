@@ -1,0 +1,15 @@
+.montreal{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    width: 1200px;
+    margin: 30px auto;
+    padding: 10px 10px;
+}
+.montreal img{
+    width: 600px;
+    border-radius: 10px;
+}

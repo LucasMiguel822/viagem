@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.h1{
+   display: flex;
+   justify-content: center;
+}
+.Roma{
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    border: 1px solid;
+    padding: 20px 0;
+}
+.roma img{
+    width: 400px;
+}
+.roma p{
+    position: relative;
+    top: 100px;
+    margin-left: 10px;
+    text-align: justify;
+    line-height: 1.5;
+}
+.roma button{
+    position: absolute;
+    top: 430px;
+    left: 50%;
+    transform: translatey(-50%);
+}
+.botaoroma{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,165 @@
+
+.canadaIndex{
+    width: 600px;
+    margin: 20px auto;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    gap:20px;
+    text-decoration:none;
+    color:#0057c2;
+    border:2px solid #0057c2;
+    border-radius:12px;
+    padding:15px;
+    margin-bottom:20px;
+    background:white;
+    transition:0.3s;
+}
+
+.canadaIndex:hover{
+    transform:scale(1.03);
+}
+
+.canadaIndex img{
+    border: 2px solid black;
+    width:90px;
+    height:60px;
+    object-fit:cover;
+}
+
+.canadaIndex h1{
+    font-size:32px;
+    font-weight:bold;
+}
+
+.romaIndex{
+    width: 600px;
+    margin: 20px auto;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    gap:20px;
+    text-decoration:none;
+    color:#0057c2;
+    border:2px solid #0057c2;
+    border-radius:12px;
+    padding:15px;
+    margin-bottom:20px;
+    background:white;
+    transition:0.3s;
+}
+
+.romaIndex:hover{
+    transform:scale(1.03);
+}
+
+.romaIndex img{
+    border: 2px solid black;
+    width:90px;
+    height:60px;
+    object-fit:cover;
+}
+
+.romaIndex h1{
+    font-size:32px;
+    font-weight:bold;
+}
+
+.japaoIndex{
+    width: 600px;
+    margin: 20px auto;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    gap:20px;
+    text-decoration:none;
+    color:#0057c2;
+    border:2px solid #0057c2;
+    border-radius:12px;
+    padding:15px;
+    margin-bottom:20px;
+    background:white;
+    transition:0.3s;
+}
+
+.japaoIndex:hover{
+    transform:scale(1.03);
+}
+
+.japaoIndex img{
+    border: 2px solid black;
+    width:90px;
+    height:60px;
+    object-fit:cover;
+}
+
+.japaoIndex h1{
+    font-size:32px;
+    font-weight:bold;
+}
+
+.rioIndex{
+    width: 600px;
+    margin: 20px auto;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    gap:20px;
+    text-decoration:none;
+    color:#0057c2;
+    border:2px solid #0057c2;
+    border-radius:12px;
+    padding:15px;
+    margin-bottom:20px;
+    background:white;
+    transition:0.3s;
+}
+
+.rioIndex:hover{
+    transform:scale(1.03);
+}
+
+.rioIndex img{
+    border: 2px solid black;
+    width:90px;
+    height:60px;
+    object-fit:cover;
+}
+
+.rioIndex h1{
+    font-size:32px;
+    font-weight:bold;
+}
+
+.greciaIndex{
+    width: 600px;
+    margin: 20px auto;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    gap:20px;
+    text-decoration:none;
+    color:#0057c2;
+    border:2px solid #0057c2;
+    border-radius:12px;
+    padding:15px;
+    margin-bottom:20px;
+    background:white;
+    transition:0.3s;
+}
+
+.greciaIndex:hover{
+    transform:scale(1.03);
+}
+
+.greciaIndex img{
+    border: 2px solid black;
+    width:90px;
+    height:60px;
+    object-fit:cover;
+}
+
+.greciaIndex h1{
+    font-size:32px;
+    font-weight:bold;
+}

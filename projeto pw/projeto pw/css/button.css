@@ -1,0 +1,18 @@
+.voltar a{
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+}
+button{
+    background-color: rgb(77, 77, 84);
+    border-radius: 10px;
+    height: 40px;
+    cursor: pointer;
+    
+}
+a{
+    color: black;
+}

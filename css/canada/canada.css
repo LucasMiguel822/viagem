@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 20px;
+}
+.canada{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    width: 1200px;
+    margin: 30px auto;
+    padding: 10px 10px;
+}
+.canada img{
+    width: 600px;
+    border-radius: 10px;
+}
+.conteudo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex: 1;
+}
+.conteudo p{
+text-align: justify;
+line-height: 1.6;
+}
+.botao{
+    display: flex;
+    justify-content: center;
+    padding: 12px 10px;
+    border-radius: 8px;
+    background-color: #0077ff;
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.botao:hover{
+    transform: scale(1.05);
+}

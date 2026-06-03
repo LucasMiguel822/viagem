@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.canada1{
+    display: grid;
+    place-items: center;
+}.canada2{
+    display: grid;
+    place-items: center;
+}.canada3{
+    display: grid;
+    place-items: center;
+}

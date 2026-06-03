@@ -1,0 +1,11 @@
+.voltar a{
+    position: fixed;
+    top: 20px;
+    left: 30px;
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+}
+a{
+    color: black;
+}

@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.japao1{
+    display: grid;
+    place-items: center;
+}.japao2{
+    display: grid;
+    place-items: center;
+}.japao3{
+    display: grid;
+    place-items: center;
+}

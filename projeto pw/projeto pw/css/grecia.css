@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.grecia1{
+    display: grid;
+    place-items: center;
+}.grecia2{
+    display: grid;
+    place-items: center;
+}.grecia3{
+    display: grid;
+    place-items: center;
+}

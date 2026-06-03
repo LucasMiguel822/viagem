@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.rio1{
+    display: grid;
+    place-items: center;
+}.rio2{
+    display: grid;
+    place-items: center;
+}.rio3{
+    display: grid;
+    place-items: center;
+}
